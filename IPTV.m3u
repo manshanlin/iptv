@@ -1,119 +1,119 @@
 ﻿#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="全部",CCTV1
+http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="全部",CCTV1
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="全部",CCTV1
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="全部",CCTV1
-http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="全部",CCTV2
+http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="全部",CCTV2
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="全部",CCTV2
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="全部",CCTV2
-http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="全部",CCTV3
+http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="全部",CCTV3
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="全部",CCTV3
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="全部",CCTV3
-http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="全部",CCTV4
+http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="全部",CCTV4
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="全部",CCTV4
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/2300.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="全部",CCTV4
-http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="全部",CCTV5
+http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="全部",CCTV5
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="全部",CCTV5
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/2300.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="全部",CCTV5
-http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="全部",CCTV5+
+http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="全部",CCTV5+
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="全部",CCTV5+
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/2300.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="全部",CCTV5+
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="全部",CCTV5+
-http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="全部",CCTV6
+http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_6000.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="全部",CCTV6
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="全部",CCTV6
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/2300.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="全部",CCTV6
-http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_6000.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="全部",CCTV7
+http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="全部",CCTV7
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="全部",CCTV7
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/2300.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="全部",CCTV7
-http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="全部",CCTV8
+http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="全部",CCTV8
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="全部",CCTV8
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/2300.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="全部",CCTV8
-http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="全部",CCTV9
+http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="全部",CCTV9
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="全部",CCTV9
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="全部",CCTV9
-http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="全部",CCTV10
-http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="全部",CCTV10
 http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="全部",CCTV10
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="全部",CCTV11
+http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="全部",CCTV11
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="全部",CCTV11
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/1300.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="全部",CCTV11
-http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="全部",CCTV12
+http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="全部",CCTV12
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="全部",CCTV12
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/2300.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="全部",CCTV12
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="全部",CCTV12
-http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="全部",CCTV13
+http://hls.yun.gehua.net.cn:8088/live/CCTV13HD_2000.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="全部",CCTV13
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="全部",CCTV13
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="全部",CCTV13
-http://hls.yun.gehua.net.cn:8088/live/CCTV13HD_2000.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="全部",CCTV14
-http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="全部",CCTV14
 http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="全部",CCTV15
-http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="全部",CCTV14
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="全部",CCTV15
 http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="全部",CCTV15
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="全部",CCTV17
+http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="全部",CCTV17
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="全部",CCTV17
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/1300.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="全部",CCTV17
-http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部",CGTN
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部",CGTN纪录
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel14/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="全部",广东卫视
+http://hls.yun.gehua.net.cn:8088/live/GuangDongHD_6000.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="全部",广东卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="全部",广东卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/2300.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="全部",广东卫视
-http://hls.yun.gehua.net.cn:8088/live/GuangDongHD_6000.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="全部",广东体育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="全部",广东体育
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="全部",广东体育
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="全部",广东体育
-http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="全部",广东公共
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="全部",广东少儿
@@ -125,47 +125,44 @@ http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel58/index
 #EXTINF:-1 tvg-id="25" tvg-name="南方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/nanfang.png" group-title="全部",广东南方卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="全部",深圳卫视
+http://hls.yun.gehua.net.cn:8088/live/ShenZhenHD_6000.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="全部",深圳卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="全部",深圳卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/2300.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="全部",深圳卫视
-http://hls.yun.gehua.net.cn:8088/live/ShenZhenHD_6000.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="全部",江苏卫视
+http://hls.yun.gehua.net.cn:8088/live/JiangSuHD_6000.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="全部",江苏卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="全部",江苏卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/2300.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="全部",江苏卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="全部",江苏卫视
-http://hls.yun.gehua.net.cn:8088/live/JiangSuHD_6000.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="全部",浙江卫视
+http://hls.yun.gehua.net.cn:8088/live/ZheJiangHD_6000.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="全部",浙江卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="全部",浙江卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/2300.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="全部",浙江卫视
-http://hls.yun.gehua.net.cn:8088/live/ZheJiangHD_6000.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="全部",湖南卫视
+http://hls.yun.gehua.net.cn:8088/live/HuNanHD_6000.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="全部",湖南卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="全部",湖南卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="全部",湖南卫视
-http://hls.yun.gehua.net.cn:8088/live/HuNanHD_6000.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="全部",东方卫视
+http://hls.yun.gehua.net.cn:8088/live/DongFangHD_6000.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="全部",东方卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="全部",东方卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="全部",东方卫视
-http://hls.yun.gehua.net.cn:8088/live/DongFangHD_6000.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="全部",江西卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="全部",江西卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="全部",北京卫视
+http://hls.yun.gehua.net.cn:8088/live/BTV1HD_6000.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="全部",北京卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="全部",北京卫视
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="全部",北京卫视
-http://hls.yun.gehua.net.cn:8088/live/BTV1HD_6000.m3u8
-
-
-
