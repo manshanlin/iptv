@@ -56,4 +56,5 @@ http://hls.yun.gehua.net.cn:8088/live/HuNanHD_6000.m3u8
 http://hls.yun.gehua.net.cn:8088/live/DongFangHD_6000.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="全部",北京卫视
 http://hls.yun.gehua.net.cn:8088/live/BTV1HD_6000.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部",咪咕体育-4K
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
